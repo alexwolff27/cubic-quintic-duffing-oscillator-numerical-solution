@@ -7,5 +7,7 @@ The results of the numerical solutions are visualized in the following graphs:
 
 ## Animations
 Animations of the system's behavior over time can be found in the accompanying files:
-![Duffing Animation 1](duffing_animation_1.gif)
-![Duffing Animation 2](duffing_animation_2.gif)
+<p float="left">
+  <img src="images/anim1.gif" width="300" />
+  <img src="images/anim2.gif" width="300" />
+</p>
